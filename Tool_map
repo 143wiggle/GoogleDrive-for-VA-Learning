@@ -1,0 +1,51 @@
+# GoogleDrive-for-VA-Learning
+
+ GoogleDrive-for-VA-Learning/
+│
+├── level_0_introduction/
+│   ├── 00-why-google-drive-for-va.md
+│   └── 01-setup-google-drive-account.md
+│
+├── level_1_basic_usage/
+│   ├── 02-create-folder-and-files.md
+│   ├── 03-upload-download-files.md
+│   ├── 04-share-files-and-folders.md
+│   ├── 05-view-access-permissions.md
+│   └── 06-organize-files-efficiently.md
+│
+├── level_2_file_management/
+│   ├── 07-rename-move-copy-files.md
+│   ├── 08-use-star-and-priority.md
+│   ├── 09-remove-and-recover-files.md
+│   ├── 10-manage-shared-with-me.md
+│   └── 11-version-history.md
+│
+├── level_3_integration_with_google_tools/
+│   ├── 12-drive-and-google-docs.md
+│   ├── 13-drive-and-google-sheets.md
+│   ├── 14-drive-and-google-slides.md
+│   ├── 15-drive-and-google-forms.md
+│   └── 16-link-drive-files-in-gmail.md
+│
+├── level_4_collaboration_for_va_work/
+│   ├── 17-client-folder-setup.md
+│   ├── 18-real-time-editing.md
+│   ├── 19-commenting-and-suggestions.md
+│   ├── 20-setting-folder-structure-for-teams.md
+│   └── 21-activity-monitor-and-notifications.md
+│
+├── level_5_third_party_integrations/
+│   ├── 22-integrate-with-trello.md
+│   ├── 23-connect-with-zoom-recordings.md
+│   ├── 24-use-zapier-with-drive.md
+│   ├── 25-connect-to-canva.md
+│   └── 26-embed-drive-files-in-websites.md
+│
+├── level_6_advanced_drive_skills/
+│   ├── 27-drive-keyboard-shortcuts.md
+│   ├── 28-manage-storage-space.md
+│   ├── 29-backup-and-sync-options.md
+│   ├── 30-use-drive-app-on-mobile.md
+│   └── 31-secure-and-protect-files.md
+│
+└── roadmap.md
